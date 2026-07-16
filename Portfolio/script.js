@@ -19,7 +19,7 @@ new Typed(".typing", {
 
     strings: [
         "Frontend Developer",
-        "Python Beginner",
+        "Python Developer",
         "Graphic Designer",
         "Freelancer"
     ],
@@ -789,7 +789,7 @@ window.addEventListener("blur", () => {
 
 window.addEventListener("focus", () => {
 
-    document.title = "Rumman | Frontend Developer";
+    document.title = "Cre0vix | Frontend Developer";
 
 });
 
